@@ -21,7 +21,7 @@ public class Degiskenler {
             max=a;   
         }
         else if(b>=a && b>=c){
-          max=b;
+            max=b;
         }
         else{
             max=c;
